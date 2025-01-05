@@ -1,5 +1,8 @@
 rning GIT.
+<<<<<<< HEAD
 added new line to gitlearning
 added new line to gitlearning check
 testing
 modify checkout 
+=======
+>>>>>>> eff9ab30673b029bce77c8732ae6b6d2cbc6abb0
